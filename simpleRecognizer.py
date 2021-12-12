@@ -1,5 +1,3 @@
-import time
-import random
 import speech_recognition as sr
 
 r = sr.Recognizer()
