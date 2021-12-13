@@ -1,5 +1,6 @@
 import speech_recognition as sr
 
+'''Create instance'''
 r = sr.Recognizer()
 mic = sr.Microphone()
 # clearfile = sr.AudioFile('harvard.wav')
