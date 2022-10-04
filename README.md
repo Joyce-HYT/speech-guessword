@@ -1,4 +1,4 @@
-# My 1st audio program
+# audio program
 I tried to process audio from
 [realpython](https://realpython.com/python-speech-recognition/)
 sample code by David Amos.
